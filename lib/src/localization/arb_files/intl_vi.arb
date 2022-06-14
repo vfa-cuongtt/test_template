@@ -1,0 +1,28 @@
+{
+  "@@locale": "vi",
+  "@@last_modified": "2022-05-02T13:03:21.308330",
+  "settings": "cài đặt",
+  "@settings": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "languages": "ngôn ngữ",
+  "@languages": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "back": "quay lại",
+  "@back": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "themes": "chủ đề",
+  "@themes": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  }
+}

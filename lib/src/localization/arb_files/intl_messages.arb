@@ -1,0 +1,27 @@
+{
+  "@@last_modified": "2022-05-02T13:20:10.059651",
+  "settings": "settings",
+  "@settings": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "languages": "languages",
+  "@languages": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "back": "back",
+  "@back": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "themes": "themes",
+  "@themes": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  }
+}
